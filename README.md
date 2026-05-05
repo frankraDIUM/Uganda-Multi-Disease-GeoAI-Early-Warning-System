@@ -2,6 +2,7 @@
 A Climate-Intelligent Early Warning System for Vector-Borne and Waterborne Diseases in Uganda
 
 **Summary**
+
 This project is a complete GeoAI-powered early warning system that predicts vector-borne (e.g., malaria) 
 and waterborne (e.g., cholera) disease risk at the district level in Uganda. 
 It integrates high-resolution climate data from Copernicus ERA5-Land, administrative boundaries, engineered spatiotemporal features, 
@@ -27,8 +28,11 @@ Data Sources:
 Core Technologies:
 
 Python, GeoPandas, xarray, rioxarray
+
 Scikit-learn (RandomForestRegressor + RandomForestClassifier)
+
 Streamlit + Plotly + Folium
+
 Joblib model persistence
 
 Modeling Performance (Test Set)
