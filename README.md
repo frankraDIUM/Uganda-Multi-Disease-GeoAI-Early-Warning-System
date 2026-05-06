@@ -27,19 +27,21 @@ Data Sources:
 
 Core Technologies:
 
-Python, GeoPandas, xarray, rioxarray
+- Python, GeoPandas, xarray, rioxarray
 
-Scikit-learn (RandomForestRegressor + RandomForestClassifier)
+- Scikit-learn (RandomForestRegressor + RandomForestClassifier)
 
-Streamlit + Plotly + Folium
+- Streamlit + Plotly + Folium
 
-Joblib model persistence
+- Joblib model persistence
 
-Modeling Performance (Test Set)
+- Modeling Performance (Test Set)
 
-Vector-Borne Model: R² = 0.861, MAE = 9.12
-Waterborne Model: R² = 0.738, MAE = 5.06
-Outbreak Classifier: AUC = 0.936
+- Vector-Borne Model: R² = 0.861, MAE = 9.12
+
+- Waterborne Model: R² = 0.738, MAE = 5.06
+  
+- Outbreak Classifier: AUC = 0.936
 
 **Key Features Engineered**
 
