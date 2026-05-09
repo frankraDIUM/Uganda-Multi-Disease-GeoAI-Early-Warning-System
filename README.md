@@ -9,6 +9,21 @@ It integrates high-resolution climate data from Copernicus ERA5-Land, administra
 and machine learning models to generate risk predictions and outbreak alerts. 
 The system is delivered through an interactive Streamlit dashboard with real-time forecasting and mapping capabilities.
 
+---
+Dashboard Preview
+
+<p align="center">
+  <img src="https://github.com/frankraDIUM/Uganda-Multi-Disease-GeoAI-Early-Warning-System/blob/main/Uganda_1_linked.gif" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/frankraDIUM/Uganda-Multi-Disease-GeoAI-Early-Warning-System/blob/main/Uganda_2_linked.gif" />
+</p>
+
+---
+
 **Key Objectives Achieved**
 
 - Fuse climate (ERA5-Land) and spatial data (OSM + HDX boundaries)
